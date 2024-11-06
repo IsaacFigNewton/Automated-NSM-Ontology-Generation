@@ -1,3 +1,6 @@
+Ambiguity: Extremely high
+Relevance: High
+
 Need transformation operations compatible with continuous values (edge vectors)
 
 Directions:

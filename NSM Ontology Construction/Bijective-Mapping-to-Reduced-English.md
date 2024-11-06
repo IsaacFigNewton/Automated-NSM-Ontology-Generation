@@ -1,3 +1,5 @@
+Ambiguity: High
+Relevance: Extremely high
 
 Formalize grammar of reduced English (the natural semantic metalanguage)
 - Use lemmatization, stemming to parse tense, ownership, other English-specific grammatical artifacts
@@ -12,5 +14,5 @@ Translate word tokens into basic English, written using only primitives
 	- Examine how "X" is used in each sentence to gather clues about its possible meaning
 	- Determine the semantic roles "X" plays in the sentences
 
-[Ontology subgraph example](Embed-the-ontology-subgraph.md)
+[Ontology subgraph example](Ontology-Subgraph-Text-Embedding-Example.md)
 [Embedding reduced english as NSM ontology](Embedding-Text-as-Ontology-Subgraph-Activations)

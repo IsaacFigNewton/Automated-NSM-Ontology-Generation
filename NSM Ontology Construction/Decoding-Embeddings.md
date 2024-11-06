@@ -1,4 +1,4 @@
-Ambiguity
+Ambiguity: High
 
 Description: Adapt the output layer to generate predictions based on primitive representations.
 

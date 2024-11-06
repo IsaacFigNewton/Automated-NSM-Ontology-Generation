@@ -1,4 +1,5 @@
-Ambiguity: very high
+Ambiguity: Very high
+Relevance: Extremely high
 
 Represent words as subgraphs of nodes that have been “activated” within the ontology
 
