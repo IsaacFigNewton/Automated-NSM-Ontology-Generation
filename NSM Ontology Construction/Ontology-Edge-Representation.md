@@ -5,9 +5,11 @@
 		- degree of desire for other node’s concept
 		- similitude
 		- etc.
-- Don’t use positional encoding for intensifiers or similarity encoding, instead multiplying or otherwise increasing similitude dimension of all edge associations
+- Edges as augmentors in different encoding methods
+	- Instead apply edge vectors as transformation measures:
+		- [Use group theory to determine suitable transformations/operations](Group-Theory-Approach)
+	- [Positional Encoding](Positional-Encoding)
 
 [Previous](Embedding-Text-as-Ontology-Subgraph-Activations)
 
-[Positional Encoding](Positional-Encoding)
 [Training Process](Edge-Regression-Process.md)
