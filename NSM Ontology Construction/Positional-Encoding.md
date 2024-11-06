@@ -1,5 +1,5 @@
-Ambiguity: Extremely high
-Relevance: High
+#Ambiguity/Very_high 
+#Relevance/High
 
 Adjust positional encoding method to fit primitive-base ontological representation
 - Use a separate positional embedding matrix and add it to the primitive embeddings.

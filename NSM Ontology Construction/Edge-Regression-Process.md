@@ -1,5 +1,5 @@
-Ambiguity: High
-Relevance: Extremely high
+#Ambiguity/High
+#Relevance/Very_high
 
 Probabilistically determine word association
 - strengths

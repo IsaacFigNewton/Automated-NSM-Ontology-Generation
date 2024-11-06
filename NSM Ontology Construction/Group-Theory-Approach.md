@@ -1,5 +1,5 @@
-Ambiguity: Extremely high
-Relevance: High
+#Ambiguity/Very_high
+#Relevance/High
 
 Need transformation operations compatible with continuous values (edge vectors)
 

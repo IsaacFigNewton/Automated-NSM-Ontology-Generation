@@ -1,4 +1,5 @@
-Ambiguity: Very low
+#Ambiguity/Very_low 
+#Relevance/Medium
 
 Display which primitives are activated (by how much), which intermediate nodes, and which nodes are activated for a given piece of text
 - Use node hue/saturation level

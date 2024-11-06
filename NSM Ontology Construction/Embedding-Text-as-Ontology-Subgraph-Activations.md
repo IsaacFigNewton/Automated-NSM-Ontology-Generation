@@ -1,5 +1,5 @@
-Ambiguity: Very high
-Relevance: Extremely high
+#Ambiguity/Very_high
+#Relevance/Very_high
 
 Represent words as subgraphs of nodes that have been “activated” within the ontology
 
@@ -14,7 +14,7 @@ Represent conditional logical operations with ambiguous solutions as follows:
 Ultimate embedding should be a vector with <65 dimensions representing a location in the concept space
 - <65 dimensions because some of the 65 semantic primes are augmentors (edge/transformation vector dimensions)
 
-[Previous](Bijective-Mapping-to-Reduced-English)
+[Previous](Reduced-English-to-Ontology-Language)
 [Next](Extrapolating-Embeddings-to-Subtokens.md)
 
 [Visualization design](Ontology-Visualizations.md)

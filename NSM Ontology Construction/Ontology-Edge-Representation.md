@@ -1,5 +1,5 @@
-Ambiguity: Extremely high
-Relevance: Extremely high
+#Ambiguity/Very_high 
+#Relevance/Very_high
 
 - Represent Learned association edges as qualifier vectors
 	- 1 dimension for each form of qualia

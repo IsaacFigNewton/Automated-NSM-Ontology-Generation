@@ -1,5 +1,5 @@
-Ambiguity: High
-Relevance: Very low
+#Ambiguity/High
+#Relevance/Very_low
 
 Queries, Keys, and Values:
 - Compute queries, keys, and values based on primitive embeddings.

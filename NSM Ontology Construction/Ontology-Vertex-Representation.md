@@ -1,5 +1,5 @@
-Ambiguity: Medium
-Relevance: Extremely high
+#Ambiguity/Medium
+#Relevance/Very_high
 
 Non-primitive vertices should have no attributes
 Only select semantic primitives should have vector representations
