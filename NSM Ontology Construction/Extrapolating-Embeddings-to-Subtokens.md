@@ -8,4 +8,4 @@
 [Feed the embeddings into a multi-head attention module](Multi-Head-Attention-Mechanism)
 
 [Previous](Embedding-Text-as-Ontology-Subgraph-Activations)
-[Next](Embedding-Transition-Gradient.md)
+[Next](Token-Transition-Modelling.md)

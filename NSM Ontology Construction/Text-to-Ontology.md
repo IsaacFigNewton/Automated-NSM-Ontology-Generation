@@ -9,4 +9,4 @@ Build an ontology with the following properties:
 
 [Traditional/similar ontological generation approaches](Existing-Ontology-Generation-Approaches.md)
 
-[Custom approach](Bijective-Mapping-to-Reduced-English)
+[Custom approach](Create-Bijective-Mapping-to-Primitive-English-Grammar.md)

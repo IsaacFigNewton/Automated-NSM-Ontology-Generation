@@ -11,7 +11,7 @@
       "query": "tag:#Root  ",
       "color": {
         "a": 1,
-        "rgb": 10255604
+        "rgb": 12362751
       }
     },
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 39311
       }
+    },
+    {
+      "query": "tag:#Relevance/Low  ",
+      "color": {
+        "a": 1,
+        "rgb": 7576526
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 19.5833333333333,
   "linkStrength": 0.78125,
   "linkDistance": 358,
-  "scale": 0.47348447769157226,
+  "scale": 0.47348447769157254,
   "close": false
 }
