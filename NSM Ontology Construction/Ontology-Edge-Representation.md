@@ -2,8 +2,16 @@
 #Relevance/Very_high
 
 Represent Learned association edges as qualifier vectors with a limited basis
-
+Edges should have meaningful inversions
+Positional encoding information contained in edge weights
 ## Primitives to use as a basis
+
+#### Affective Meaning:
+- Osgood, C. E., G. J. Suci, and P. H. Tannenbaum. 1957. The Measurement of Meaning. University of Illinois Press
+	- valence: the pleasantness of the stimulus
+	- arousal: the intensity of emotion provoked by the stimulus
+	- dominance: the degree of control exerted by the stimulus
+
 #### Quantity:
 - **Intensifier, Augmentor**
 	- very

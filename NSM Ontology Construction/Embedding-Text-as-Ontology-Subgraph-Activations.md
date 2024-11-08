@@ -26,7 +26,7 @@ Decide which words act as edge vector dimensions, which act as concept embedding
 
 [Text parsing](Create-Bijective-Mapping-to-Primitive-English-Grammar)
 [English to an ontology language](Primitive-English-to-Ontology-Language.md)
-[Next](Extrapolating-Embeddings-to-Subtokens.md)
+[Extrapolating embeddings to their subtokens](Extrapolating-Embeddings-to-Subtokens.md)
 
 [Visualization design](Ontology-Visualizations.md)
 [Decoding](Decoding-Embeddings.md)

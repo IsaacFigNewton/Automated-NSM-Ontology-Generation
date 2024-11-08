@@ -7,7 +7,7 @@ Formalize grammar of primitive-based English (the natural semantic metalanguage)
 [Parsing issues and proposed solutions](Parsing-Issues)
 
 Translate word tokens into primitive English, written using only primitives
-- Parse English text into a **Context-Free Grammar (CFG) parse tree**
+- Parse English text into a **Context-Free Grammar (CFG) constituency-based parse tree**
 	- See [Penn Treebank](https://catalog.ldc.upenn.edu/docs/LDC95T7/cl93.html)
 	- Edges in the parse tree should be of the same composition as edges in the learned ontology
 - Without context, terminals have ambiguous meaning
