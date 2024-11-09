@@ -156,9 +156,12 @@
   },
   "active": "ed7fb41f0cedda86",
   "lastOpenFiles": [
-    "Multi-Head-Attention-Mechanism.md",
-    "Directions.md",
     "Text-to-Ontology.md",
+    "Directions.md",
+    "Decoding-Embeddings.md",
+    "GPT-Prompt-Parse-Tree-Generation.md",
+    "GPT-Prompt-Describe-Using-only-Primitives.md",
+    "Existing-Ontology-Generation-Approaches.md",
     "Pasted image 20241108160634.png",
     "Pasted image 20241107121003.png",
     "Pasted image 20241108152023.png",
@@ -168,9 +171,6 @@
     "Pasted image 20241108155242.png",
     "Pasted image 20241108154038.png",
     "Pasted image 20241108154013.png",
-    "GPT-Prompt-Describe-Using-only-Primitives.md",
-    "GPT-Prompt-Parse-Tree-Generation.md",
-    "Existing-Ontology-Generation-Approaches.md",
     "Ontology-Vertex-Representation.md",
     "Edge-Regression-Process.md",
     "Ontology-Edge-Representation.md",
@@ -180,6 +180,7 @@
     "Embedding-Text-as-Ontology-Subgraph-Activations.md",
     "Extrapolating-Embeddings-to-Subtokens.md",
     "Positional-Encoding.md",
+    "Multi-Head-Attention-Mechanism.md",
     "Primitive-English-to-Ontology-Language.md",
     "Pasted image 20241107131625.png",
     "Ontology-Subgraph-Text-Embedding-Example.md",
@@ -187,7 +188,6 @@
     "Embedding-Transition-Gradient.md",
     "Group-Theory-Approach.md",
     "Parsing-Issues.md",
-    "Ontology-Visualizations.md",
-    "Decoding-Embeddings.md"
+    "Ontology-Visualizations.md"
   ]
 }
