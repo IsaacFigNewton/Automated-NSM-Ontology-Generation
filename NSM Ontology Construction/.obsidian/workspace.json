@@ -11,14 +11,10 @@
             "id": "ed7fb41f0cedda86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Text-to-Ontology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Text-to-Ontology"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -160,12 +156,14 @@
   },
   "active": "ed7fb41f0cedda86",
   "lastOpenFiles": [
+    "Multi-Head-Attention-Mechanism.md",
+    "Directions.md",
+    "Text-to-Ontology.md",
     "Pasted image 20241108160634.png",
     "Pasted image 20241107121003.png",
     "Pasted image 20241108152023.png",
     "Pasted image 20241107131633.png",
     "Pasted image 20241108151723.png",
-    "Text-to-Ontology.md",
     "Pasted image 20241108155331.png",
     "Pasted image 20241108155242.png",
     "Pasted image 20241108154038.png",
@@ -182,11 +180,9 @@
     "Embedding-Text-as-Ontology-Subgraph-Activations.md",
     "Extrapolating-Embeddings-to-Subtokens.md",
     "Positional-Encoding.md",
-    "Multi-Head-Attention-Mechanism.md",
     "Primitive-English-to-Ontology-Language.md",
     "Pasted image 20241107131625.png",
     "Ontology-Subgraph-Text-Embedding-Example.md",
-    "Pasted image 20241105194014.png",
     "Token-Transition-Modelling.md",
     "Embedding-Transition-Gradient.md",
     "Group-Theory-Approach.md",

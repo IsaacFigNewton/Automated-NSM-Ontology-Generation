@@ -21,12 +21,14 @@ Embedding process:
 **beauty ==>** When people see something and think it is very good. They feel very good inside because of it. They want to see it more because it makes them feel very good.
 **ful        ==>** Something is like that thing or full of it.
 7. Assigning likelihoods to different possible definitions  
-8. Finally, create grammar parse trees for the semantic primitive-based concept descriptions using a reduced grammar composition ruleset
+8. Create grammar parse trees for the semantic primitive-based concept descriptions using a reduced grammar composition ruleset
 [GPT prompt for parsing into grammar parse tree](GPT-Prompt-Parse-Tree-Generation.md)
 Beauty:
 ![[Pasted image 20241108155242.png]]
 -ful:
 ![[Pasted image 20241108155331.png]]
+9. Represent branches in the the tree with more complex concepts
+For example, the NP branch associated with "that thing" could be mapped to the concept of the noun "other"
 
 Build an ontology with the following properties:
 - Vertex properties:
@@ -38,6 +40,9 @@ Build an ontology with the following properties:
 	- Edges should have meaningful inversions
 	- Positional encoding information must be contained in edge weights
 
+
 [Traditional/similar ontological generation approaches](Existing-Ontology-Generation-Approaches.md)
 
 [Custom approach](Create-Bijective-Mapping-to-Primitive-English-Grammar.md)
+
+[Directions](Directions)
